@@ -18,4 +18,4 @@
  PROJECTS. 
 
 "OUTPUT OF TASK":
-
+![Screenshot 2025-01-08 192107](https://github.com/user-attachments/assets/c4974388-c239-4d2a-b3b5-1e606c9f6d1d)
